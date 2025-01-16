@@ -1,0 +1,14 @@
+[package]
+name = "zelt"
+version = "0.0.1"
+edition = "2021"
+authors = ["Bogz Bonny <bogzbonny@protonmail.com>"] 
+keywords = ["tui", "terminal"]
+description = "n-dimensional TUI spreadsheet"
+documentation = "https://docs.rs/zelt/latest/zelt/"
+repository = "https://github.com/bogzbonny/zelt"
+categories = ["command-line-interface", "command-line-utilities"]
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
